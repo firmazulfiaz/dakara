@@ -1,0 +1,89 @@
+.banner {
+    background: url("assets/img/2.jpeg") 
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.tim img {
+    width: 250px;
+    border: 10px solid #cccc;
+}
+
+a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+
+.client img {
+    height: auto;
+    max-height: 50px;
+}
+
+.kontak {
+    /* background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat center center; */
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #000000;
+    
+}
+
+.lingkaran {
+    padding-bottom: 20%;
+    padding-top: 20%;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+
+}
+
+.head {
+    width: auto;
+    height: 50px;
+}
+
+.btn{
+    margin-top: 20px;
+    background-color: #db8700c7;
+    border-color: #db8700c7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.icon{
+   color: #fff;
+   transform: translate(0, -30px);
+    box-shadow: 0 5px 4px rgb(0,0,0,0.5);
+}
+
+.footer{
+    background-color: #333;
+}
